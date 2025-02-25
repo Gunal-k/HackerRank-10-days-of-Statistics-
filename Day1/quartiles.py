@@ -1,12 +1,6 @@
- #!/bin/python3
 import os
-
-#
-# Complete the 'quartiles' function below.
-#
 # The function is expected to return an INTEGER_ARRAY.
 # The function accepts INTEGER_ARRAY arr as parameter.
-#
 
 def quartiles(arr):
     arr.sort()
